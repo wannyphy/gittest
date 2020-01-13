@@ -64,5 +64,7 @@ On branch master
 
 No commits yet
 
-nothing to commit (create/copy files and use "git add" to track)
-MacBook-Pro-de-Wanny:gittest wannyould-amrouche$ git commit ·"réalisation d'un commit"
+git add .
+git commit -m ·"réalisation d'un commit"
+
+
